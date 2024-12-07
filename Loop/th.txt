@@ -1,0 +1,40 @@
+There are two types of loops.
+1. entry controlled loop
+        - for loop
+        - while loop
+2. exit control loop
+        - do while loop
+
+
+for loop syntax : 
+
+for(initioalization step 1 ; condition step 2 ; inc/dec step 4)
+{
+
+    // code execution // step 3
+}
+
+
+
+while loop syntax :
+
+initialization -- step 1
+
+while(condition - step 2)
+{
+    // code execution //  step 3
+    incr / decr  -- step 4
+
+}
+
+
+
+dow while loop syntax :
+at least one time code execution happen by default in do while loop.
+
+initialization -- step 1
+do{
+
+    // code execution // step 2
+    incr / decr -- step 3
+}while(condition - step 4)
