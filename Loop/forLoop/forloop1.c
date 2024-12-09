@@ -15,9 +15,9 @@ void main(){
     // }
 
 
-    // for(i=19;i<=30;i++)
-    // {
-    //     printf("%d",i);
-    // }
+    for(i=19;i<=30;i++)
+    {
+        printf("%d",i);
+    }
 
 }
