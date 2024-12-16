@@ -1,1 +1,6 @@
 For loop - 10 task 
+
+
+
+int age[10] = {};
+
