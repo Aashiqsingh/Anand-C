@@ -4,3 +4,10 @@ For loop - 10 task
 
 int age[10] = {};
 
+
+
+task : 20 - 12 - 24 
+Sorting in assending order 
+
+ex -- [23,54,44,67,89,64]
+output -- [23,44,54,64,67,89]
