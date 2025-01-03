@@ -1,0 +1,19 @@
+Function -- code reusiblity 
+
+types of function 
+1. without returnType without argument 
+2. without returnType with argument
+3. with returnType without argument
+4. with returnType with argument
+
+
+
+void test()
+{
+    printf("This is test function..");
+}
+
+
+int test2(){
+    return 34;
+}
