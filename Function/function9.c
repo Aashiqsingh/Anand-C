@@ -27,3 +27,12 @@ void main()
     printf("\nPayment is succefully \nTotal price is :%d",y);
     
 }
+
+
+
+
+
+
+void main{
+    int arr[5] = {55,44,22,11,99};
+} 
