@@ -33,6 +33,7 @@ void main()
 
 
 
-void main{
+void main(){
     int arr[5] = {55,44,22,11,99};
+    // char str[5] = {'a','b',8};
 } 
