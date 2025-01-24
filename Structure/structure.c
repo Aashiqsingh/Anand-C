@@ -24,21 +24,23 @@ void main()
     // printf("%d %s %d\n",s1Roll,s1Name,s1Std);
     // printf("%d %s %d\n",s2Roll,s2Name,s2Std);
 
-    struct student s1;
-    struct  student s2;
+    struct student s[2];
+
     
 
-    s1.roll = 1;
-    strcpy(s1.name,"Anand");
-    s1.std = 12;
+    s[1].roll = 1;
+    strcpy(s[1].name,"Anand");
+    s[1].std = 12;
 
-    s2.roll = 2;
-    strcpy(s2.name,"Deepak");
-    s2.std = 10;
+    s[2].roll = 2;
+    strcpy(s[2].name,"Deepak");
+    s[2].std = 10;
 
 
-    printf("%d %s %d\n",s1.roll,s1.name,s1.std);
-    printf("%d %s %d\n",s2.roll,s2.name,s2.std);
+    for(int i=1;i<=2;i++)
+    {
+        printf("%d %s %d\n",s[i].roll,s[i].name,s[i].std);
+    }
 
 
 }
